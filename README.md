@@ -1,2 +1,2 @@
 # html-portfolio
-A perrsonal website
+A personal website
